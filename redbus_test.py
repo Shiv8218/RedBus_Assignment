@@ -1,4 +1,4 @@
-from Practice_assignment.RedBus_Assignment.method import RedBusHomePage
+from method import RedBusHomePage
 
 def test_calendar(month,year):
     redbus_home = RedBusHomePage(month , year)
